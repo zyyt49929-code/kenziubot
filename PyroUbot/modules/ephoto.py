@@ -27,7 +27,7 @@ def tweet(text):
     url = "https://api.botcahx.eu.org/api/ephoto/televisi"
     params = {
         "text": text,
-        "apikey": "_@moire_mor"
+        "apikey": "@31Moire_mor"
     }   
     try:
         response = requests.get(url, params=params)
@@ -44,7 +44,7 @@ def rob(text):
     url = "https://api.botcahx.eu.org/api/ephoto/coverpubg"
     params = {
         "text": text,
-        "apikey": "_@moire_mor"
+        "apikey": "@31Moire_mor"
     }   
     try:
         response = requests.get(url, params=params)
@@ -61,7 +61,7 @@ def robottt(text):
     url = "https://api.botcahx.eu.org/api/ephoto/horor"
     params = {
         "text": text,
-        "apikey": "_@moire_mor"
+        "apikey": "@31Moire_mor"
     }   
     try:
         response = requests.get(url, params=params)
