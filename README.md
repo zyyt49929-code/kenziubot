@@ -3,10 +3,10 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/zyyt49929-code/kenziubot
+git clone https://github.com/zyyt49929-code/kenziubot
 ```
 ```
-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
+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
 ```
 ```
 cd kenziubot
