@@ -102,7 +102,7 @@ class BTN:
 
     def ALWAYSBOYSZ(message):
         button = [
-            [InlineKeyboardButton("room public", url="https://t.me/nolifech00")],
+            [InlineKeyboardButton("room public", url="https://t.me/kenzidev3")],
         ]
         return button
 
@@ -150,7 +150,7 @@ class BTN:
             button = [
                 [InlineKeyboardButton("⦪ ʙᴇʟɪ ᴜꜱᴇʀʙᴏᴛ ⦫", callback_data="bahan")],
                 [
-                    InlineKeyboardButton("✭ ʀᴏᴏᴍ ᴘᴜʙʟɪᴄ ✭", url="https://t.me/nolifech00")
+                    InlineKeyboardButton("✭ ʀᴏᴏᴍ ᴘᴜʙʟɪᴄ ✭", url="https://t.me/kenzidev3")
                 ],
                 [
                     InlineKeyboardButton("⦪ ʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ ⳼", callback_data="buat_ubot"),
