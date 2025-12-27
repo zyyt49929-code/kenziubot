@@ -3,19 +3,19 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/MachaOfficial/ubotMacha
+git clone https://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@github.com/zyyt49929-code/kenzubot
 ```
 ```
-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
+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
 ```
 ```
-cd ubotMacha
+cd kenzubot
 ```
 ```
 bash installnode.sh && apt install python3.10-venv.
 ```
 ```
-python3 -m venv ubotMacha && source ubotMacha/bin/activate
+python3 -m venv kenzubot && source kenzubot/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
