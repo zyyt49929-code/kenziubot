@@ -3,19 +3,19 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/zyyt49929-code/kenzubot
+git clone https://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@github.com/zyyt49929-code/kenziubot
 ```
 ```
 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
 ```
 ```
-cd kenzibot
+cd kenziubot
 ```
 ```
 bash installnode.sh && apt install python3.10-venv.
 ```
 ```
-python3 -m venv kenzibot && source kenzibot/bin/activate
+python3 -m venv kenziubot && source kenziubot/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
